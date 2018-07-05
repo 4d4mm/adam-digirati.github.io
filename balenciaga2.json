@@ -161,7 +161,7 @@
               "id": "https://digirati.com/balenciaga/c1/annos/1",
               "type": "Annotation",
               "motivation": "layout-viewport-focus",
-              "target": "https://digirati.com/balenciaga/c1#300,300,400,400"
+              "target": "https://digirati.com/balenciaga/c1#xywh=300,300,400,400"
             }
           ]
         }
@@ -272,7 +272,7 @@
               "id": "https://digirati.com/balenciaga/c3/annos/1",
               "type": "Annotation",
               "motivation": "layout-viewport-focus",
-              "target": "https://digirati.com/balenciaga/c3#300,500,400,400"
+              "target": "https://digirati.com/balenciaga/c3#xywh=300,500,400,400"
             }
           ]
         }
@@ -337,7 +337,7 @@
               "id": "https://digirati.com/balenciaga/c3/annos/1",
               "type": "Annotation",
               "motivation": "layout-viewport-focus",
-              "target": "https://digirati.com/balenciaga/c7#200,300,400,500"
+              "target": "https://digirati.com/balenciaga/c7#xywh=200,300,400,500"
             }
           ]
         }
