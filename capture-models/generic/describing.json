@@ -1,5 +1,5 @@
 {
-  "@id": "http://adam-digirati.github.io/capture-models/generic/describing.json",
+  "@id": "https://adam-digirati.github.io/capture-models/generic/describing-outer.json",
   "dcterms:title": "Annotation",
   "dcterms:description": "Create region on page that links to external resource.",
   "dcterms:type": {
