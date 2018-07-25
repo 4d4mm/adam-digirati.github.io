@@ -1,5 +1,5 @@
 {
-    "@id": "https://adam-digirati.github.io/capture-models/generic/describing-outer.json",
+    "@id": "http://adam-digirati.github.io/capture-models/generic/describing-outer.json",
     "dcterms:title": "Create new annotation",
     "dcterms:type": {
       "@id": "http://www.digirati.com/ns/madoc#group",
@@ -30,7 +30,7 @@
     "crowds:uiMultiple": "False",
     "dcterms:hasPart": [
       {
-        "@id": "https://adam-digirati.github.io/capture-models/generic/describing-outer.json",
+        "@id": "http://adam-digirati.github.io/capture-models/generic/describing.json",
         "dcterms:title": "Annotation",
         "dcterms:description": "Create region on page that links to external resource.",
         "dcterms:type": {
