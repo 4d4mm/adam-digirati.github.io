@@ -87,7 +87,7 @@
       "id": "https://adam-digirati.github.io/balenciaga1-behaviors.json",
       "type": "Manifest",
       "label": {
-        "en": ["Multiple slideshows on a page"]
+        "en": ["Multiple slide shows on a page"]
       },
       "behavior": [
         "slide-show"
