@@ -70,21 +70,7 @@
       }]
     },
     {
-      "id": "https://wellcomelibrary.org/iiif/b18035723/manifest",
-      "type": "Manifest",
-      "label": {
-        "en": ["Annotation playground"]
-      },
-      "behavior": [
-        "annotation-playground"
-      ],
-      "thumbnail": [{ 
-        "id": "https://dlcs.io/iiif-img/wellcome/1/4ff70079-fac3-4259-814e-021f7dcf43b6/195,150,2146,2146/512,/0/default.jpg", 
-        "type": "Image" 
-      }]
-    },
-    {
-      "id": "https://adam-digirati.github.io/balenciaga1-behaviours.json",
+      "id": "https://adam-digirati.github.io/balenciaga1-behaviors.json",
       "type": "Manifest",
       "label": {
         "en": ["Slideshow Behaviours"]
@@ -92,6 +78,20 @@
       "summary": {
         "en": ["demonstrates the layouts."]
       },
+      "thumbnail": [{ 
+        "id": "https://dlc.services/iiif-img/5/15/ce07bf6c-da42-4ef2-9245-35f80572cf9e/0,0,1200,900/300,/0/default.jpg", 
+        "type": "Image" 
+      }]
+    },
+    {
+      "id": "https://adam-digirati.github.io/balenciaga1-behaviors.json",
+      "type": "Manifest",
+      "label": {
+        "en": ["Multiple slideshows on a page"]
+      },
+      "behavior": [
+        "slide-show"
+      ],
       "thumbnail": [{ 
         "id": "https://dlc.services/iiif-img/5/15/ce07bf6c-da42-4ef2-9245-35f80572cf9e/0,0,1200,900/300,/0/default.jpg", 
         "type": "Image" 
