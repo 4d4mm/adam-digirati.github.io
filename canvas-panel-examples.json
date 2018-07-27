@@ -19,7 +19,7 @@
       "label": {
         "en": ["V&A Ocean Liners"]
       },
-      "behaviors": [
+      "behavior": [
         "oceanliners"
       ],
       "thumbnail": [{ 
@@ -33,7 +33,7 @@
       "label": {
         "en": ["Full page example"]
       },
-      "behaviors": [
+      "behavior": [
         "fullpage"
       ],
       "thumbnail": [{ 
@@ -47,7 +47,7 @@
       "label": {
         "en": ["Pop out example"]
       },
-      "behaviors": [
+      "behavior": [
         "popout"
       ],
       "thumbnail": [{ 
@@ -61,7 +61,7 @@
       "label": {
         "en": ["Annotation playground"]
       },
-      "behaviors": [
+      "behavior": [
         "annotation-playground"
       ],
       "thumbnail": [{ 
