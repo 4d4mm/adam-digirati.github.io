@@ -81,7 +81,7 @@
       }
     },
     "@id":
-      "https://nlw-omeka.digtest.co.uk/s/site-one/annotation-studio/open/resource/3901",
+      "https://adam-digirati.github.io/capture-models/generic/multiple-annoitations.json",
     "crowds:derivedAnnoBodyFormat": "text/plain",
     "crowds:derivedAnnoBodyPurpose": {
       "@id": "http://www.w3.org/ns/oa#tagging",
