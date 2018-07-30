@@ -81,7 +81,7 @@
       }
     },
     "@id":
-      "/capture-models/generic/multiple-annoitations.json",
+      "http://adam-digirati.github.io/capture-models/generic/multiple-annoitations.json",
     "crowds:derivedAnnoBodyFormat": "text/plain",
     "crowds:derivedAnnoBodyPurpose": {
       "@id": "http://www.w3.org/ns/oa#tagging",
