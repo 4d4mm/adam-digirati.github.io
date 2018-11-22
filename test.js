@@ -1,4 +1,4 @@
-document.onLoad = function () {
+(function () {
     var a = document.createElement('div');
     a.innerHTML = ' works ';
     document.getElementById('slideshow').appendChild(a);
@@ -27,4 +27,4 @@ var BTN = React.createClass({
       children: 'Ok'  
     } 
   } ,document.getElementById('slideshow'));
-};
+})();
