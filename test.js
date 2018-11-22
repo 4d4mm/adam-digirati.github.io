@@ -1,4 +1,7 @@
 document.onLoad = function () {
+    var a = document.createElement('div');
+    a.innerHTML = ' works ';
+    document.getElementById('slideshow').appendChild(a);
 var BTN = React.createClass({
     render: function() {
       var children = this.props.children;
@@ -23,5 +26,5 @@ var BTN = React.createClass({
       color: 'red', 
       children: 'Ok'  
     } 
-  } ,document.createElement('slideshow'));
+  } ,document.getElementById('slideshow'));
 };
