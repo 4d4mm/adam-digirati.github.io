@@ -144,38 +144,32 @@
                 "target": "http://digirati.com/iiif/v3/temporary/canvas/c1#xywh=1597,1132,870,524"
               },
               {
-                "type": "AnnotationPage",
-                "items": [
-                  {
-                    "id": "http://digirati.com/iiif/v3/temporary/annot/c4-1",
-                    "type": "Annotation",
-                    "motivation": "painting",
-                    "label": {
-                      "en": [
-                        "Video Annotation 1"
-                      ],
-                      "nl": [
-                        "video-annotatie"
-                      ]
-                    },
-                    "body": {
-                      "id": "https://www.w3schools.com/html/mov_bbb.mp4",
-                      "type": "Video",
-                      "width": 320,
-                      "height": 176,
-                      "duration": 1
-                    },
-                    "target": "http://digirati.com/iiif/v3/temporary/canvas/c4#xywh=597,1332,870,524",
-                    "thumbnail": [{
-                        "id": "https://dlc.services/thumbs/5/35/e330ada5-d759-47b8-bb90-d43daee95a11/full/1024,576/0/default.jpg",
-                        "service": {
-                          "id": "https://dlc.services/thumbs/5/35/e330ada5-d759-47b8-bb90-d43daee95a11",
-                          "type": "ImageService2"
-                        } 
-                    }]
-                  }
-                ],
-                "id": "http://digirati.com/iiif/v3/temporary/list/c4-ap1"
+                "id": "http://digirati.com/iiif/v3/temporary/annot/c4-1",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "en": [
+                    "Video Annotation 1"
+                  ],
+                  "nl": [
+                    "video-annotatie"
+                  ]
+                },
+                "body": {
+                  "id": "https://www.w3schools.com/html/mov_bbb.mp4",
+                  "type": "Video",
+                  "width": 320,
+                  "height": 176,
+                  "duration": 1
+                },
+                "target": "http://digirati.com/iiif/v3/temporary/canvas/c4#xywh=597,1332,870,524",
+                "thumbnail": [{
+                    "id": "https://dlc.services/thumbs/5/35/e330ada5-d759-47b8-bb90-d43daee95a11/full/1024,576/0/default.jpg",
+                    "service": {
+                      "id": "https://dlc.services/thumbs/5/35/e330ada5-d759-47b8-bb90-d43daee95a11",
+                      "type": "ImageService2"
+                    } 
+                }]
               }
             ],
             "id": "http://digirati.com/iiif/v3/temporary/list/c1-ap1"
