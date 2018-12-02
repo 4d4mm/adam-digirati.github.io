@@ -1,0 +1,191 @@
+{
+    "label": {
+      "en": [
+        "Rise of a Campus"
+      ],
+      "nl": [
+        "Tentoonstelling manifest"
+      ]
+    },
+    "summary": {
+      "en": [
+        "A campus is a living thing. It expands and shrinks. It follows the changing needs of the university. It can be perceived as lively yet it can be boring. In an ideal situation, knowledge garnered from the most exotic branches of research wafts through the air. Some see the campus as the epitome of the grandeur of a university, others see it as an industrial area. Just like any other neighbourhood, it has a distinct style and atmosphere."
+      ],
+      "nl": [
+        "A campus is a living thing. It expands and shrinks. It follows the changing needs of the university. It can be perceived as lively yet it can be boring. In an ideal situation, knowledge garnered from the most exotic branches of research wafts through the air. Some see the campus as the epitome of the grandeur of a university, others see it as an industrial area. Just like any other neighbourhood, it has a distinct style and atmosphere."
+      ]
+    },
+    "type": "Manifest",
+    "id": "http://digirati.com/iiif/v3/temporary/manifest",
+    "items": [
+      {
+        "label": {
+          "en": [
+            "Mixed media canvas"
+          ],
+          "nl": [
+            "canvas met gemengde media"
+          ]
+        },
+        "summary": {
+          "en": [
+            "Sed pharetra ante purus, non fringilla purus gravida non. Aenean eu ligula sodales, porttitor nunc ut, scelerisque erat. Ut at nunc eget est facilisis egestas. Nulla ultricies vestibulum consequat. Donec dignissim tristique nibh at posuere. Maecenas augue velit, mollis sed nisl quis, porta sodales nisi. Morbi id pellentesque elit. In semper auctor nunc. Sed accumsan sapien sit amet tempor dictum. Aliquam vitae tempus sapien. Etiam tincidunt eros odio, non luctus felis maximus id. Quisque ex mi, mattis eu nisl vel, viverra mollis lectus. Maecenas elit arcu, tristique a nisi nec, blandit commodo tortor. Nullam ut erat sit amet metus pulvinar interdum vel in augue."
+          ],
+          "nl": [
+            "Donec ex magna, finibus ut scelerisque ac, ultricies quis purus. Etiam congue dictum porttitor. Donec at quam lorem. Cras quis pellentesque dolor, sit amet auctor orci. Nam metus massa, sodales quis dictum et, mattis vitae eros. Maecenas cursus magna sed dignissim interdum. Morbi luctus dolor id diam bibendum, vel tincidunt enim varius. Mauris porttitor tincidunt mi, sed tempus felis euismod a. Nam vehicula sem odio. Donec ipsum massa, congue fermentum imperdiet at, consectetur ac orci. Fusce venenatis ligula et lectus facilisis blandit."
+          ]
+        },
+        "height": 3000,
+        "width": 3000,
+        "type": "Canvas",
+        "id": "http://digirati.com/iiif/v3/temporary/canvas/c1",
+        "items": [
+          {
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "motivation": "painting",
+                "type": "Annotation",
+                "id": "https://wellcomelibrary.org/iiif/b28481173/imageanno/322c97f7-b241-42b1-b66b-67635ae05f4f",
+                "target": "http://digirati.com/iiif/v3/temporary/canvas/c1#xywh=0,0,1555,1031",
+                "body": {
+                  "format": "image/jpeg",
+                  "height": 3327,
+                  "width": 5000,
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "id": "https://dlcs.io/iiif-img/wellcome/1/322c97f7-b241-42b1-b66b-67635ae05f4f",
+                      "type": "ImageService2"
+                    }
+                  ],
+                  "type": "Image",
+                  "id": "https://dlcs.io/iiif-img/wellcome/1/322c97f7-b241-42b1-b66b-67635ae05f4f/full/!1024,1024/0/default.jpg"
+                },
+                "thumbnail": [{
+                  "format": "image/jpeg",
+                  "height": 681,
+                  "width": 1024,
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "id": "https://dlcs.io/thumbs/wellcome/1/322c97f7-b241-42b1-b66b-67635ae05f4f",
+                      "type": "ImageService2"
+                    }
+                  ],
+                  "type": "Image",
+                  "id": "https://dlcs.io/thumbs/wellcome/1/322c97f7-b241-42b1-b66b-67635ae05f4f/full/!1024,1024/0/default.jpg"
+                }]
+              },
+              {
+                "motivation": "painting",
+                "type": "Annotation",
+                "id": "https://wellcomelibrary.org/iiif/b20433128/imageanno/c6cf8fb9-39b8-4192-ad3f-ebcbb16bfb4b",
+                "target": "http://digirati.com/iiif/v3/temporary/canvas/c1#xywh=1198,733,1543,1090",
+                "body": {
+                  "format": "image/jpeg",
+                  "height": 2480,
+                  "width": 3508,
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "id": "https://dlcs.io/iiif-img/wellcome/1/c6cf8fb9-39b8-4192-ad3f-ebcbb16bfb4b",
+                      "type": "ImageService2"
+                    }
+                  ],
+                  "type": "Image",
+                  "id": "https://dlcs.io/iiif-img/wellcome/1/c6cf8fb9-39b8-4192-ad3f-ebcbb16bfb4b/full/!1024,1024/0/default.jpg"
+                },
+                "thumbnail": [{
+                  "format": "image/jpeg",
+                  "height": 724,
+                  "width": 1024,
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "id": "https://dlcs.io/thumbs/wellcome/1/c6cf8fb9-39b8-4192-ad3f-ebcbb16bfb4b",
+                      "type": "ImageService2"
+                    }
+                  ],
+                  "type": "Image",
+                  "id": "https://dlcs.io/thumbs/wellcome/1/c6cf8fb9-39b8-4192-ad3f-ebcbb16bfb4b/full/!1024,1024/0/default.jpg"
+                }]
+              },
+              {
+                "id": "http://digirati.com/iiif/v3/temporary/annot/c1-3",
+                "type": "Annotation",
+                "motivation": "painting",
+                "label": {
+                  "en": [
+                    "Text Annotation 3"
+                  ]
+                },
+                "body": {
+                  "type": "TextualBody",
+                  "value": "Visible annotation",
+                  "format": "text/plain"
+                },
+                "target": "http://digirati.com/iiif/v3/temporary/canvas/c1#xywh=190,1263,1209,1436"
+              },
+              {
+                "id": "http://digirati.com/iiif/v3/temporary/annot/c1-4",
+                "type": "Annotation",
+                "motivation": "tagging",
+                "label": {
+                  "en": [
+                    "Text Annotation 4"
+                  ]
+                },
+                "body": {
+                  "type": "TextualBody",
+                  "value": "Hotspot",
+                  "format": "text/plain"
+                },
+                "target": "http://digirati.com/iiif/v3/temporary/canvas/c1#xywh=1597,1132,870,524"
+              },
+              {
+                "type": "AnnotationPage",
+                "items": [
+                  {
+                    "id": "http://digirati.com/iiif/v3/temporary/annot/c4-1",
+                    "type": "Annotation",
+                    "motivation": "painting",
+                    "label": {
+                      "en": [
+                        "Video Annotation 1"
+                      ],
+                      "nl": [
+                        "video-annotatie"
+                      ]
+                    },
+                    "body": {
+                      "id": "https://www.w3schools.com/html/mov_bbb.mp4",
+                      "type": "Video",
+                      "width": 320,
+                      "height": 176,
+                      "duration": 1
+                    },
+                    "target": "http://digirati.com/iiif/v3/temporary/canvas/c4#xywh=597,1332,870,524",
+                    "thumbnail": [{
+                        "id": "https://dlc.services/thumbs/5/35/e330ada5-d759-47b8-bb90-d43daee95a11/full/1024,576/0/default.jpg",
+                        "service": {
+                          "id": "https://dlc.services/thumbs/5/35/e330ada5-d759-47b8-bb90-d43daee95a11",
+                          "type": "ImageService2"
+                        } 
+                    }]
+                  }
+                ],
+                "id": "http://digirati.com/iiif/v3/temporary/list/c4-ap1"
+              }
+            ],
+            "id": "http://digirati.com/iiif/v3/temporary/list/c1-ap1"
+          }
+        ],
+        "behaviours": ["w-5", "h-7", "column"]
+      }
+    ],
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      "http://iiif.io/api/presentation/3/context.json"
+    ]
+  }
