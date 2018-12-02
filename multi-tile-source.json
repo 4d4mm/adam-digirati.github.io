@@ -180,8 +180,7 @@
             ],
             "id": "http://digirati.com/iiif/v3/temporary/list/c1-ap1"
           }
-        ],
-        "behaviours": ["w-5", "h-7", "column"]
+        ]
       }
     ],
     "@context": [
