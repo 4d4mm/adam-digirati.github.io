@@ -47,8 +47,8 @@
           ]
         }
       },
-      "width": 900,
-      "height": 1200,
+      "width": 4472,
+      "height": 6742,
       "label": { "en": ["Balenciaga: Master Craftsman"] },
       "summary": {
         "en": [
@@ -66,15 +66,15 @@
               "motivation": "painting",
               "body": {
                 "id":
-                  "https://dlc.services/iiif-img/5/15/7f1ef85a-50a7-413a-9303-2ec722608484/full/full/0/default.jpg",
+                  "https://dlc.services/iiif-img/5/3/0144b453-e7c8-4dc7-ad3d-2da1dddffaea/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 900,
-                "height": 1200,
+                "width": 4472,
+                "height": 6742,
                 "service": [
                   {
                     "id":
-                      "https://dlc.services/iiif-img/5/15/7f1ef85a-50a7-413a-9303-2ec722608484",
+                      "https://dlc.services/iiif-img/5/3/0144b453-e7c8-4dc7-ad3d-2da1dddffaea",
                     "type": "ImageService2",
                     "profile": "level1"
                   }
