@@ -67,7 +67,7 @@
         "id": "http://localhost:8181/p3/6c582363-8547-bcc4-6eab-6905b2b4feda/canvas/78cb1fee-0548-81c4-1523-5fb8188d8fa6",
         "summary": {
           "en": [
-            "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/uUdoxvigIl8?showinfo=0&autoplay=1\" style=\"width: 100%; height: 100%; position: absolute; top:0; left:0; \"></iframe>"
+            "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/uUdoxvigIl8?autoplay=1&showinfo=0\" style=\"width: 100%; height: 100%; position: absolute; top:0; left:0; \"></iframe>"
           ]
         },
         "behavior": [
