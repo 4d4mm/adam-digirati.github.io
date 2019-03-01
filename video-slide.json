@@ -1,0 +1,90 @@
+{
+    "@context": [
+      "http://www.w3.org/ns/anno.jsonld",
+      "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Untitled Manifest"
+      ]
+    },
+    "items": [
+      {
+        "label": {
+          "en": [
+            "The title"
+          ]
+        },
+        "height": 300,
+        "width": 200,
+        "type": "Canvas",
+        "items": [
+          {
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "type": "Annotation",
+                "body": {
+                  "type": "Image",
+                  "id": "https://picsum.photos/200/300",
+                  "width": 200,
+                  "height": 300
+                },
+                "target": "http://localhost:8181/p3/6c582363-8547-bcc4-6eab-6905b2b4feda/canvas/da933040-17c9-db01-1e5f-5a955eed5264#xywh=0,0,200,300",
+                "id": "http://localhost:8181/p3/6c582363-8547-bcc4-6eab-6905b2b4feda/annotation/f140185f-6d22-6a11-98e2-2cb31b6109f9",
+                "motivation": "painting"
+              }
+            ]
+          }
+        ],
+        "id": "http://localhost:8181/p3/6c582363-8547-bcc4-6eab-6905b2b4feda/canvas/da933040-17c9-db01-1e5f-5a955eed5264",
+        "behavior": [
+          "info-position-right",
+          "layout-split"
+        ],
+        "summary": {
+          "en": [
+            "<p>sort description</p><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/uUdoxvigIl8?showinfo=0\"></iframe><p><br></p><p>test</p>"
+          ]
+        }
+      },
+      {
+        "label": {
+          "en": [
+            ""
+          ]
+        },
+        "height": 1000,
+        "width": 1000,
+        "type": "Canvas",
+        "items": [
+          {
+            "type": "AnnotationPage",
+            "items": []
+          }
+        ],
+        "id": "http://localhost:8181/p3/6c582363-8547-bcc4-6eab-6905b2b4feda/canvas/78cb1fee-0548-81c4-1523-5fb8188d8fa6",
+        "summary": {
+          "en": [
+            "<iframe frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/uUdoxvigIl8?showinfo=0&autoplay=1\" style=\"width: 100%; height: 100%; position: absolute; top:0; left:0; \"></iframe>"
+          ]
+        },
+        "behavior": [
+          "info-position-center",
+          "layout-overlay"
+        ],
+        "requiredStatement": {
+          "label": {
+            "en": [
+              " "
+            ]
+          }
+        }
+      }
+    ],
+    "id": "http://localhost:8181/p3/6c582363-8547-bcc4-6eab-6905b2b4feda/manifest",
+    "behavior": [
+      "vna-slideshow"
+    ]
+  }
